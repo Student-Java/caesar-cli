@@ -6,7 +6,7 @@ It transform only latin letters.
 ## How to install
 
 1. Download or clone this repository
-2. Change directory to `"caesar-cli"`
+2. Change directory to `"caesar-cipher-cli"`
 3. Install dependencies.
 
 `npm i` or `npm install`
