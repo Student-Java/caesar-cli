@@ -1,6 +1,6 @@
 # Node.js Caesar cipher CLI tool
 
-The application uses to encrypt and decrypt using the Caesar cipher.
+The application is used to encrypt and decrypt using the Caesar cipher.
 It transform only latin letters.
 
 ## How to install
